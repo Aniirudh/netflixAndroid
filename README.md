@@ -18,6 +18,13 @@ You can see a live demo of this project in action by installing the app on your 
 **Demo Credentials:**
 Username: user@mail.com
 Password: Password
+![IMG_20240429_210449 020](https://github.com/Aniirudh/netflixAndroid/assets/71401267/7b25c947-f66f-4454-b88d-0347e9fd0921)
+![IMG_20240429_210448 970](https://github.com/Aniirudh/netflixAndroid/assets/71401267/30719926-98c7-44c0-bb02-18a4561154de)
+![IMG_20240429_210448 927](https://github.com/Aniirudh/netflixAndroid/assets/71401267/6113a4b5-0089-47c1-b031-32fab51cd2cb)
+![IMG_20240429_210448 811](https://github.com/Aniirudh/netflixAndroid/assets/71401267/5dd26419-ada8-466c-8169-36073db4dc05)
+![IMG_20240429_210448 712](https://github.com/Aniirudh/netflixAndroid/assets/71401267/f8011f2d-4891-48ea-a828-236b37ae11ef)
+
+
 
 ## Features
 
